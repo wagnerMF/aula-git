@@ -1,2 +1,0 @@
-# aula-git
-Treinando git
